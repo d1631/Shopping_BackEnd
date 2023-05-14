@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ASUS",
+    "slug": "asus"
+  },
+  {
+    "name": "MSI",
+    "slug": "msi"
+  },
+  {
+    "name": "LENOVO",
+    "slug": "lenovo"
+  },
+   {
+    "name": "ACER",
+    "slug": "acer"
+  },
+  {
+    "name": "HP",
+    "slug": "hp"
+  },
+  {
+    "name": "MACBOOK",
+    "slug": "macbook"
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Acer Aspire 5 A515-56-32DK Slim Laptop",
+    "slug": "Acer-A515-56-32DK-Display-i3-1115G4-Processor",
+    "price": "379.99",
+    "description": "15.6 Full HD IPS Display - 11th Gen Intel i3-1115G4 Dual Core Processor - 4GB DDR4 - 128GB NVMe SSD - WiFi 6 - Amazon Alexa - Windows 11 Home in S mode.",
+    "image": "/uploads/71pvhTrmZDL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71pvhTrmZDL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Aspire Vero AV15-51-7617 Green PC",
+    "slug": "Acer-AV15-51-7617-i7-1195G7-Graphics-Materials",
+    "price": "699.99",
+    "description": "15.6 FHD IPS 100% sRGB-Display | 11th Gen Intel Core i7-1195G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB NVMe SSD | Wi-Fi 6 | PCR Materials | Vero-Sleeve",
+    "image": "/uploads/81XIwlF8sxL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81XIwlF8sxL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Nitro 5 AN515-57-79TD Gaming Laptop",
+    "slug": "Acer-AN515-57-79TD-i7-11800H-GeForce-Keyboard",
+    "price": "929.99",
+    "description": "Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU | 15.6 FHD 144Hz IPS Display | 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+    "image": "/uploads/81lDOtJRTkL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81lDOtJRTkL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "2022 Acer 15inch HD IPS Chromebook",
+    "slug": "Acer-15inch-Chromebook-Dual-Core-Super-Fast",
+    "price": "154.00",
+    "description": "Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage, Super-Fast WiFi Up to 1300 Mbps, Chrome OS-(Renewed) (Dale Silver)",
+    "image": "/uploads/71-QYvMpwGL._AC_SX466_.jpg",
+    "thumbnail": "/uploads/uploads/71-QYvMpwGL._AC_SX466_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Chromebook Spin 311 Convertible Laptop",
+    "slug": "Acer-Chromebook-Spin-311-CP311-2H-C7QD",
+    "price": "249.99",
+    "description": "Intel Celeron N4000 | 11.6 HD Touch Corning Gorilla Glass Display | 4GB LPDDR4 | 64GB eMMC | Intel 802.11ac Gigabit WiFi 5 | Chrome OS | CP311-2H-C7QD",
+    "image": "/uploads/71c5W9NxN5L._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71c5W9NxN5L._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Aspire 5 A515-46-R3UB",
+    "slug": "Acer-A515-46-R3UB-Display-Quad-Core-Processor",
+    "price": "399.99",
+    "description": "15.6 Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode",
+    "image": "/uploads/7189iXimfWL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/7189iXimfWL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Chromebook 512 Laptop",
+    "slug": "Acer-Chromebook-Graphics-802-11ac-CB512-C1KJ",
+    "price": "199.99",
+    "description": "Intel Celeron N4020 | 12 HD+ Display | Intel UHD Graphics 600 | 4GB LPDDR4 | 32GB eMMC | Intel 9560 802.11ac Gigabit WiFi 5 | MIL-STD 810G | Chrome OS | CB512-C1KJ",
+    "image": "/uploads/81HQMVKgf0L._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81HQMVKgf0L._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Swift X SFX14-41G-R1S6 Creator Laptop",
+    "slug": "Acer-SFX14-41G-R1S6-Creator-LPDDR4X-Backlit",
+    "price": "1069.99",
+    "description": "14 Full HD 100% sRGB | AMD Ryzen 7 5800U | NVIDIA RTX 3050Ti Laptop GPU | 16GB LPDDR4X | 512GB SSD | Wi-Fi 6 | Backlit KB | Amazon Alexa | Windows 10 Home",
+    "image": "/uploads/71d5rAq4YaL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71d5rAq4YaL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop",
+    "slug": "Acer-Predator-PH315-54-760S-i7-11800H-Keyboard",
+    "price": "1299.99",
+    "description": "Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6 FHD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard",
+    "image": "/uploads/71nz3cIcFOL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71nz3cIcFOL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Predator Triton 500 SE Gaming/Creator Laptop",
+    "slug": "Acer-Predator-Creator-i9-12900H-PT516-52s-99EL",
+    "price": "2819.25",
+    "description": "12th Gen Intel i9-12900H | GeForce RTX 3080 Ti | 16 WQXGA 240Hz G-SYNC Display | 32GB LPDDR5 | 1TB Gen 4x4 SSD | Killer Wi-Fi 6E | PT516-52s-99EL",
+    "image": "/uploads/71mIkTVDwKL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71mIkTVDwKL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Aspire C24-1700-UA91 AIO Desktop",
+    "slug": "Acer-C24-1700-UA91-i3-1215U-Graphics-Wireless",
+    "price": "649.24",
+    "description": "23.8 Full HD IPS Display | 12th Gen Intel Core i3-1215U | Intel UHD Graphics | 8GB DDR4 | 512GB NVMe M.2 SSD | Intel Wireless Wi-Fi 6 | Windows 11 Home",
+    "image": "/uploads/714AZcO8PLL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/714AZcO8PLL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "2022 Acer Chromebook 315",
+    "slug": "Acer-Chromebook-Touchscreen-Dual-Core-Processor",
+    "price": "276.10",
+    "description": "15.6 Full HD 1080p IPS Touchscreen Laptop PC, Intel Celeron N4020 Dual-Core Processor, 4GB DDR4 RAM, 64GB eMMC, Webcam, WiFi, 12 Hrs Battery Life, Chrome OS, Silver",
+    "image": "/uploads/81f+Mn-JwnL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81f+Mn-JwnL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Aspire 5 A515-57-53T2 Slim Laptop",
+    "slug": "Acer-A515-57-53T2-i5-1235U-802-11ax-Thunderbolt",
+    "price": "469.99",
+    "description": "15.6 Full HD IPS Display | 12th Gen Intel Core i5-1235U | 8GB DDR4 | 512GB NVMe SSD | 802.11ax Wi-Fi 6 | Thunderbolt 4 | Backlit Keyboard | Windows 11 Home",
+    "image": "/uploads/71y5vC9-clL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71y5vC9-clL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Acer Predator Orion 3000 PO3-640-UA91 Gaming Desktop",
+    "slug": "Acer-Predator-PO3-640-UA91-i7-12700F-Keyboard",
+    "price": "1399.00",
+    "description": "12th Gen Intel Core i7-12700F 12-Core | NVIDIA GeForce RTX 3070 | 16GB DDR4 | 512GB Gen4 SSD | 1TB HDD | Intel Wi-Fi 6E | RGB Keyboard & Mouse",
+    "image": "/uploads/71RVfs7q-yL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71RVfs7q-yL._AC_SL1500_.jpg",
+    "category": "ACER"
+  },
+  {
+    "name": "Lenovo 2022 Newest Ideapad 3 Laptop",
+    "slug": "Lenovo-Ideapad-Touchscreen-i3-1005G1-Processor",
+    "price": "409.00",
+    "description": "15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+    "image": "/uploads/61QGMX0Qy6L._AC_SL1352_.jpg",
+    "thumbnail": "/uploads/uploads/61QGMX0Qy6L._AC_SL1352_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo IdeaPad Gaming 3 - 2022 - Everyday Gaming Laptop - NVIDIA",
+    "slug": "Lenovo-IdeaPad-Essential-Computer-Graphics",
+    "price": "599.99",
+    "description": "GeForce RTX 3050 Graphics - 15.6 FHD Display - 120 Hz - AMD Ryzen 5 6600H - 8GB DDR5 - 258GB SSD - Win 11 - Free 3-month Xbox GamePass",
+    "image": "/uploads/81zcUyiNcUL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81zcUyiNcUL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo - 2022 - IdeaPad Flex 5i - 2-in-1 Chromebook Laptop Computer",
+    "slug": "Lenovo-2-1-Chromebook-Computer",
+    "price": "330.95",
+    "description": "Intel Core i3-1115G4 - 13.3 FHD Touch Display - 8GB Memory - 128GB Storage - Chrome OS",
+    "image": "/uploads/81uDDuBAwpL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81uDDuBAwpL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+    "slug": "Lenovo-Chromebook-Processor-Graphics-82BA0003US",
+    "price": "120.00",
+    "description": "11.6 HD Display,Intel Celeron N4020, 4GB RAM, 64GB Storage, UHD Graphics 600, Chrome OS, Onyx Black",
+    "image": "/uploads/71XIwK5G75L._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71XIwK5G75L._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer",
+    "slug": "Lenovo-Chromebook-11-6-Inch-Processor-82HG0006US",
+    "price": "185.00",
+    "description": "Intel Core i5 12th Gen - 15.6 FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+    "image": "/uploads/71LsYu32caL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71LsYu32caL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo Chromebook Flex 3 11 Laptop",
+    "slug": "champion-jogger",
+    "price": "55.04",
+    "description": "11.6-Inch HD IPS Display, MediaTek MT8173C, 4GB RAM, 64GB Storage, Chrome OS, Blizzard White",
+    "image": "/uploads/611DJR7V1sL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/611DJR7V1sL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo Tab P11 Plus - 2022",
+    "slug": "Lenovo-Keyboard-Octa-Core-Processor-ZA940023US",
+    "price": "269.99",
+    "description": "Long Battery Life - 11 2K Display - Front 8 MP & Rear 13MP Camera - 4GB Memory - 128GB Storage - Android 11 or Later - Keyboard Included",
+    "image": "/uploads/71GcsLmafcL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71GcsLmafcL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo IdeaPad 1 14 Laptop",
+    "slug": "Lenovo-IdeaPad-Processor-Graphics-81VU0079US",
+    "price": "250.52",
+    "description": "14.0 HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Win 10 in S Mode, Ice Blue",
+    "image": "/uploads/71IVTMa5JQL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71IVTMa5JQL._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "Lenovo Ideapad 5i Pro Laptop",
+    "slug": "Lenovo-5i-Pro-i5-11300H-Keyboard",
+    "price": "547.00",
+    "description": "16 QHD 2.5K IPS Display, Intel Core i5-11300H, GeForce MX450, 8GB RAM, 512GB SSD, IR Camera, Backlit Keyboard, WiFi 6, Windows 11 Home",
+    "image": "/uploads/71CiRccrv5L._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71CiRccrv5L._AC_SL1500_.jpg",
+    "category": "LENOVO"
+  },
+  {
+    "name": "HP Pavilion Gaming Desktop",
+    "slug": "HP-Pavilion-Processor-Pre-Built-TG01-2022",
+    "price": "539.00",
+    "description": "AMD Radeon RX 5500, AMD Ryzen 3 5300G Processor, 8 GB RAM, 512 GB SSD, Windows 11 Home, 9 USB Ports, Keyboard and Mouse Combo, Pre-Built PC Tower (TG01-2022, 2022)",
+    "image": "/uploads/81YNP1bMLpL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81YNP1bMLpL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP Victus 15 Gaming Laptop",
+    "slug": "HP-i5-12500H-Keyboard-Enhanced-15-fa0025nr",
+    "price": "689.00",
+    "description": "NVIDIA GeForce RTX 3050, 12th Gen Intel Core i5-12500H, 8 GB RAM, 512 GB SSD, Full HD Display, Windows 11 Home, Backlit Keyboard, Enhanced Thermals (15-fa0025nr, 2022)",
+    "image": "/uploads/81xKdwCO2hL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81xKdwCO2hL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP15.6 Inch Laptop, Intel Iris Xe Graphics",
+    "slug": "HP-Generation-i5-1135G7-Graphics-15-dy2024nr",
+    "price": "659.99",
+    "description": "12th Generation Intel Core Processor, 8 GB RAM, 256 GB SSD, Windows 11 Home (15-dy2024nr, Natural silver)",
+    "image": "/uploads/71RD3vsjIYL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71RD3vsjIYL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP Laptop X360 14a Chromebook",
+    "slug": "HP-Chromebook-Touchscreen-Entertaining-Bluetooth",
+    "price": "245.55",
+    "description": "14 HD Touchscreen, Entertaining from Any Angle Intel Celeron, 4GB DDR4 64GB eMMC WiFi Webcam Stereo Speakers Bluetooth 4.2 Chrome Blue Metallic Color",
+    "image": "/uploads/81aTNRe9WcL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81aTNRe9WcL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP 15.6in Laptop",
+    "slug": "HP-Pentium-Quad-Core-Bluetooth-Windows",
+    "price": "218.00",
+    "description": "Intel Pentium Quad-Core N5000, 4GB RAM, 128GB SSD, HDMI, WiFi, Bluetooth, HD Webcam, Windows 10 S (Renewed)",
+    "image": "/uploads/717ywJDnAHL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/717ywJDnAHL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "Newest HP",
+    "slug": "HP-14-Laptop-Dual-Core-Processor",
+    "price": "224.99",
+    "description": "14 HD Laptop, Windows 11, Intel Celeron Dual-Core Processor Up to 2.60GHz, 4GB RAM, 64GB SSD, Webcam, Dale Pink(Renewed) (Dale Pink)",
+    "image": "/uploads/61MGsq1ZVaL._AC_SL1331_.jpg",
+    "thumbnail": "/uploads/uploads/61MGsq1ZVaL._AC_SL1331_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP 2020 Flagship 14 Chromebook",
+    "slug": "Flagship-HP-Chromebook-Anti-Glare-Processor",
+    "price": "159.99",
+    "description": "Laptop Computer 14-inch HD SVA Anti-Glare Display Intel Celeron N5000 Processor 4GB DDR4 64GB eMMC WiFi Webcam Chrome OS (Renewed)",
+    "image": "/uploads/817Y3zdhTXL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/817Y3zdhTXL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "2022 HP Victus Gaming Laptop",
+    "slug": "HP-15-6-Inch-Display-i5-12450H-GeForce",
+    "price": "720.00",
+    "description": "15.6-Inch 144Hz FHD Display, 12th Gen Core i5-12450H(Beat R7 5800H), 16GB 3200 RAM, 1TB PCIe SSD, NVIDIA GeForce GTX 1650, WiFi 6, Backlit KB, RJ-45, HDMI, Win 11 H",
+    "image": "/uploads/91NAVqwir8L._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/91NAVqwir8L._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP 15 Laptop",
+    "slug": "HP-i5-1135G7-Processor-Lightweight-15-dy2021nr",
+    "price": "399.00",
+    "description": "11th Gen Intel Core i5-1135G7 Processor, 8 GB RAM, 256 GB SSD Storage, 15.6 Full HD IPS Display, Windows 10 Home, HP Fast Charge, Lightweight Design (15-dy2021nr, 2020)",
+    "image": "/uploads/81skV7BufjL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81skV7BufjL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "2022 Newest HP Laptop",
+    "slug": "HP-Microsoft-Included-Windows-Student",
+    "price": "549.99",
+    "description": "Microsoft Office Included 1-Year, 15.6 HD Screen, AMD Athlon 3050U 16GB RAM 1TB SSD HDMI Port Webcam Silver White Windows 11 | College Student Bundle, ROKC HDMI Cable",
+    "image": "/uploads/710YpSWpaRL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/710YpSWpaRL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "2022 HP Convertible 2-in-1 Chromebook",
+    "slug": "HP-Convertible-Chromebook-14-Touchscreen",
+    "price": "225.99",
+    "description": "14 HD IPS Touchscreen, Intel Celeron Processor up to 2.75GHz, 4GB Ram, 32GB SSD, Super-Fast 6th Gen WiFi, Chrome OS(Renewed) (Dale Silver)",
+    "image": "/uploads/81RO07vs0OL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81RO07vs0OL._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "HP Pavilion x360 14” Touchscreen Laptop",
+    "slug": "HP-Touchscreen-i5-1135G7-Streaming-14-dw1024nr",
+    "price": "618.00",
+    "description": "11th Gen Intel Core i5-1135G7, 8 GB RAM, 256 GB SSD Storage, Full HD IPS Display, Windows 10 Home OS, Long Battery Life, Work & Streaming (14-dw1024nr, 2021)",
+    "image": "/uploads/81HbaBmmvNS._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81HbaBmmvNS._AC_SL1500_.jpg",
+    "category": "HP"
+  },
+  {
+    "name": "ASUS TUF Gaming F15 Gaming Laptop",
+    "slug": "ASUS-IPS-Type-i5-10300H-Processor-FX506LH-AS51",
+    "price": "599.99",
+    "description": "15.6 144Hz FHD IPS-Type Display, Intel Core i5-10300H Processor, GeForce GTX 1650, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506LH-AS51",
+    "image": "/uploads/81OiT2-NoeL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81OiT2-NoeL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS VivoBook 14 Laptop Computer",
+    "slug": "ASUS-i3-1115G4-Processor-Fingerprint-F415EA-AS31",
+    "price": "249.99",
+    "description": "14 IPS FHD Display, Intel Core i3-1115G4 Processor, 4GB DDR4, 128GB PCIe SSD, Fingerprint Reader, Windows 11 Home in S Mode, Slate Grey, F415EA-AS31",
+    "image": "/uploads/71CR6drcruL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71CR6drcruL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS TUF Dash 15 (2022) Gaming Laptop",
+    "slug": "ASUS-Display-i7-12650H-Thunderbolt-FX517ZM-AS73",
+    "price": "1280.00",
+    "description": "15.6 144Hz FHD Display, Intel Core i7-12650H, GeForce RTX 3060, 16GB DDR5, 512GB SSD, Thunderbolt 4, Thunderbolt 4, Windows 11 Home, Off Black, FX517ZM-AS73",
+    "image": "/uploads/71AGOX9MORL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71AGOX9MORL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop",
+    "slug": "ASUS-Display-GeForce-Keyboard-G533ZW-AS94",
+    "price": "1992.53",
+    "description": "15.6” 300Hz IPS FHD Display, NVIDIA GeForce RTX 3070 Ti,Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Home, G533ZW-AS94",
+    "image": "/uploads/71RK6+rx-xL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71RK6+rx-xL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS Vivobook Go 15 L510 Thin & Light Laptop Computer",
+    "slug": "ASUS-Vivobook-Processor-Microsoft-L510MA-AS02",
+    "price": "227.15",
+    "description": "15.6” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 11 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-AS02",
+    "image": "/uploads/713WJz2wXLL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/713WJz2wXLL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS Chromebook Flip C433 2 in 1 Laptop",
+    "slug": "ASUS-Chromebook-Touchscreen-Processor-C433TA-AS384T",
+    "price": "247.88",
+    "description": "14 Touchscreen FHD NanoEdge Display, Intel Core m3-8100Y Processor, 8GB RAM, 64GB eMMC Storage, Backlit Keyboard, Silver, Chrome OS, C433TA-AS384T",
+    "image": "/uploads/81cpLDD+SPL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81cpLDD+SPL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Flow Z13 (2022) Gaming Laptop Tablet",
+    "slug": "ASUS-i7-12700H-Detachable-Keyboard-GZ301ZC-PS73",
+    "price": "1299.99",
+    "description": "13.4” 120Hz FHD+ Display, NVIDIA GeForce RTX 3050, Intel Core i7-12700H, 16GB LPDDR5, 512GB PCIe SSD, Detachable RGB Keyboard, Windows 11, GZ301ZC-PS73",
+    "image": "/uploads/716DaRh4tfL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/716DaRh4tfL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS TUF Gaming F15 Gaming Laptop",
+    "slug": "ASUS-IPS-Type-i7-11800H-Processor-FX506HEB-IS73",
+    "price": "1323.67",
+    "description": "15.6 144Hz FHD IPS-Type Display, Intel Core i7-11800H Processor, GeForce RTX 3050 Ti, 16GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506HEB-IS73",
+    "image": "/uploads/81M8GzQqKkL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81M8GzQqKkL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ROG Strix G15 Gaming Desktop PC",
+    "slug": "Desktop-i7-12700F-GeForce-Windows-G15CF-AB766",
+    "price": "1429.99",
+    "description": "Intel Core i7-12700F, GeForce RTX 3060 12GB, 16GB DDR4 RAM, 1TB PCIe 4.0 SSD, Windows 11 Home, G15CF-AB766",
+    "image": "/uploads/813Nab75aQL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/813Nab75aQL._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Strix Scar 15 Gaming Laptop",
+    "slug": "ASUS-Display-Opti-Mechanical-Keyboard-G533QS-DS94",
+    "price": "1905.99",
+    "description": "15.6 300Hz IPS Type FHD Display, NVIDIA GeForce RTX 3080, AMD Ryzen 9 5900HX, 16GB DDR4, 1TB SSD, Opti-Mechanical Per-Key RGB Keyboard, Windows 11, G533QS-DS94",
+    "image": "/uploads/71sgAr9atBS._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71sgAr9atBS._AC_SL1500_.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "MSI GV15 15.6 144Hz Gaming Laptop",
+    "slug": "MSI-GV15-144Hz-Gaming-Laptop",
+    "price": "683.02",
+    "description": "Intel Core i5-11400H GTX 1650 8GB 256GB NVMe SSD, Wi-Fi 6, USB Type-C, Nahimic 3 Audio Immersion, Win 11: Black 11SC-633",
+    "image": "/uploads/81cP2qZckeL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81cP2qZckeL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "MSI Pulse GL66",
+    "slug": "MSI-Pulse-GL66-Gaming-Laptop",
+    "price": "1280.28",
+    "description": "15.6 FHD 144Hz Gaming Laptop: Intel Core i7-12700H RTX 3070 16GB 512GB NVMe SSD, Type-C USB 3.2 Gen 1, RGB Gaming Keyboard, Cooler Boost 5, Win11 Home: Black 12UGKV-464",
+    "image": "/uploads/71x-XH7oSNL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71x-XH7oSNL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "MSI Creator 17 Professional Laptop",
+    "slug": "MSI-Creator-17-Professional-Laptop",
+    "price": "1392.99",
+    "description": "17.3 UHD 120Hz 100% AdobeRGB Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3060, 16GB RAM, 512GB NVME SSD, Thunderbolt 4, Win10, Core Black (B11UE-471)",
+    "image": "/uploads/717XHhyGfOL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/717XHhyGfOL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "Newest MSI GF63 Thin",
+    "slug": "Newest-MSI-i5-10300H-i7-7920HQ-Ethernet",
+    "price": "682.99",
+    "description": "15.6 FHD Gaming Laptop, 10th Gen Intel 4-Core i5-10300H up to 4.5GHz(Beat i7-7920HQ), NVIDIA GTX 1650 MaxQ, 16GB DDR4, 512GB NVMe SSD, Ethernet, WiFi 6, HDMI, USB-A&C, Win10",
+    "image": "/uploads/610ht7VgemL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/610ht7VgemL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "MSI Creator 15 Professional Laptop",
+    "slug": "MSI-Creator-15-Professional-Laptop",
+    "price": "1799.99",
+    "description": "15.6 UHD OLED 4K DCI-P3 100% Display, Intel Core i7-11800H, NVIDIA GeForce RTX 3080, 16GB RAM, 1TB NVME SSD, Thunderbolt 4, Win10 PRO, Black (A11UH-492)",
+    "image": "/uploads/71Vl8JstecL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/71Vl8JstecL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "MSI Aegis RS Gaming Desktop PC",
+    "slug": "MSI-i7-12700KF-Dual-CHL-Keyboard-12TG-285US",
+    "price": "1743.62",
+    "description": "Intel Core i7-12700KF, GeForce RTX 3060 Ti, 16GB Memory (Dual-CHL), 1TB NVMe SSD, WiFi 6E, Liquid Cooling, USB Type-C, Win11 Home, Keyboard and Mouse (12TG-285US)",
+    "image": "/uploads/81TMxDhclYL._AC_SL1500_.jpg",
+    "thumbnail": "/uploads/uploads/81TMxDhclYL._AC_SL1500_.jpg",
+    "category": "MSI"
+  },
+  {
+    "name": "ASUS ROG Zephyrus M16 GU603ZM 16 ",
+    "slug": "ASUS ROG Zephyrus M16 GU603ZM 16 165Hz Gaming Laptop",
+    "price": "1599.99",
+    "description": "Intel i7-12900H, Nvidia GeForce RTX 3060 Laptop GPU, 32GB RAM, 2TB SSD, Windows 11 ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus M16 GU603ZX 16 ",
+    "slug": "ASUS ROG Zephyrus M16 GU603ZX 16 WUXGA 165Hz ",
+    "price": "3149.99",
+    "description": "Intel i9-12950H, Nvidia GeForce RTX 3080Ti, 32GB RAM, 2TB SSD, Windows 11 ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus M16 GU603ZW 16 ",
+    "slug": "ASUS ROG Zephyrus M16 GU603ZW 16 165Hz Gaming Laptop ",
+    "price": "2499.99",
+    "description": "Intel i9-12900H, Nvidia GeForce RTX 3070Ti Laptop GPU, 32GB RAM, 2TB SSD, Windows 11 ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS M16 2022 3060.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14 14 120Hz QHD Laptop ",
+    "slug": "ASUS ROG Zephyrus G14 14 120Hz QHD Laptop, AMD Ryzen 9 5900HS ",
+    "price": "1699.99",
+    "description": "AMD Ryzen 9 5900HS (8 Cores, 4.6GHz), NVIDIA RTX 3060 6GB, 32GB DDR4, 1TB SSD, WIFI 802.11ax & BT 5.1, Windows 10 Pro - UK RGB Backlit Keyboard ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS G14 120HZ.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS G14 120HZ.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14 GA401QE ",
+    "slug": "ASUS ROG Zephyrus G14 GA401QE 14inch WQHD Gaming Laptop ",
+    "price": "1299.99",
+    "description": "AMD Ryzen 9-5900HS, Nvidia GeForce RTX 3050Ti, 16 GB RAM, 1TB SSD, Windows 10 Home with free upgrade to Windows 11, Black ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS G14 GA401QE.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS G14 GA401QE.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14 GA402RK ",
+    "slug": "ASUS ROG Zephyrus G14 GA402RK 14 WUXGA 144Hz Gaming Laptop ",
+    "price": "1499.99",
+    "description": "AMD Ryzen R7-6800HS, AMD RX 6800S Graphics, 16GB RAM, 1TB SSD, Windows 11) Includes LED Matrix Lighting, Eclipse Gray ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS G14.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS G14.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo GX650R GX650RX-LO013W ",
+    "slug": "ASUS ROG Zephyrus Duo GX650R GX650RX-LO013W 16 WUXGA 165Hz Dualscreen Gaming Laptop ",
+    "price": "4614.36",
+    "description": "AMD Ryzen R9-6900HX, Nvidia GeForce RTX 3080Ti, 64GB RAM, 4TB SSD, Windows 11 ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS DUO.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS DUO.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo GX650RW ",
+    "slug": "ASUS ROG Zephyrus Duo GX650RW 16 WUXGA 165Hz Dualscreen Gaming Laptop ",
+    "price": "2049.99",
+    "description": "AMD Ryzen R7-6800H, Nvidia GeForce RTX 3070Ti, 16GB RAM, 2TB SSD, Windows 11, Black ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS DUO.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS DUO.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo 15.6 ",
+    "slug": "ASUS ROG Zephyrus Duo 15.6 300Hz Laptop ",
+    "price": "2599.99",
+    "description": "AMD Ryzen 9 5900HX (4.6GHz), NVIDIA RTX 3070 8GB, 32GB DDR4, 2TB SSD, WIFI 6 & BT 5.1, Windows 10 Pro, RGB Keys, 12 Month ASUS Warranty ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS DUO 300HZ.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS DUO 300HZ.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo GX551QS ",
+    "slug": "ASUS ROG Zephyrus Duo GX551QS GeForce RTX 3080 120Hz Dual Screen Ultra HD Gaming Laptop ",
+    "price": "3099.29",
+    "description": "AMD Ryzen 9-5980HX, Nvidia GeForce RTX 3080, 32GB RAM, 2TB SSD, WiFi 6, Windows 10 Pro, used like New ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS DUO 4KUHD.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS DUO 4KUHD.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo 15 GX551QS Laptop 15.6 GX551QS-HB184R ",
+    "slug": "ASUS ROG Zephyrus Duo 15 GX551QS Laptop 15.6 4K Ultra HD ",
+    "price": "4199.29",
+    "description": "AMD Ryzen 9 5980HX 32GB RAM 2TB SSD NVIDIA GeForce RTX 3080 Backlit Keyboard Windows 10 Pro Black  ",
+    "image": "/uploads/ASUS ROG ZEPHYRUS DUO 4KUHD.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG ZEPHYRUS DUO 4KUHD.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus Duo G551QR ",
+    "slug": "ASUS ROG Zephyrus Duo G551QR 300Hz Dualscreen Gaming Laptop ",
+    "price": "2989.99",
+    "description": "AMD Ryzen 9-5980HX, Nvidia GeForce RTX 3070, 32GB RAM, 1TB PCI-e SSD, WiFi 6, Windows 10  ",
+    "image": "/uploads/ASUS ROG Zephyrus Duo G551QR.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Zephyrus Duo G551QR.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus S17 GX703HS ",
+    "slug": "ASUS ROG Zephyrus S17 GX703HS 17.3 Ultra HD 4K 120Hz Gaming Laptop ",
+    "price": "2099.00",
+    "description": "Intel i7-11800H, NVIDIA GeForce RTX 3080, 16GB RAM, 2TB SSD, Windows 10  ",
+    "image": "/uploads/ASUS ROG Zephyrus S17 GX703HS 17.3 Ultra HD 4K 120Hz.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Zephyrus S17 GX703HS 17.3 Ultra HD 4K 120Hz.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus S17 GX703HS 17.3 WQHD ",
+    "slug": "ASUS ROG Zephyrus S17 GX703HS 17.3 WQHD 165Hz Gaming Laptop ",
+    "price": "3029.99",
+    "description": "Intel i9-11900H, Nvidia GeForce RTX 3080 16GB vRAM Graphics, 32GB RAM, 2TB PCIe SSD, Windows 10 Professional  ",
+    "image": "/uploads/ASUS ROG Zephyrus S17 GX703HS.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Zephyrus S17 GX703HS.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Zephyrus S 17.3 FHD ",
+    "slug": "ASUS ROG Zephyrus S 17.3 FHD Gaming Laptop ",
+    "price": "3029.99",
+    "description": "Intel i7-10875H (8 Cores, 5.1GHz), NVIDIA RTX 2080 Super Max-Q 8GB, 32GB DDR4, 1TB SSD, WIFI 6 & BT 5, Windows 10 Pro - UK RGB Backlit Keyboard  ",
+    "image": "/uploads/ASUS ROG Zephyrus S.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Zephyrus S.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Rapture GT-AXE11000 ",
+    "slug": "ASUS ROG Rapture GT-AXE11000 Tri-band WiFi 6E Gaming Router ",
+    "price": "469.99",
+    "description": "New 6GHz Band, WAN Aggregation, 2.5G Port, Lifetime Free Internet Security, Mesh Wifi Support, 4 LAN Ports, VPN, Advanced Cooling System  ",
+    "image": "/uploads/ASUS ROG RAPTURE.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG RAPTURE.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS Vivobook S 14 OLED K3402ZA ",
+    "slug": "AASUS Vivobook S 14 OLED K3402ZA 14.0 90Hz 2.8K OLED Laptop ",
+    "price": "749.99",
+    "description": "Intel i5-12500H, 16GB RAM, 512GB SSD, 90Hz 600nits display, Windows 11) Intel EVO Certified  ",
+    "image": "/uploads/ASUS Vivobook S 14 OLED K3402ZA.jpg",
+    "thumbnail": "/uploads/uploads/ASUS Vivobook S 14 OLED K3402ZA.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Flow X13 GV301RE-LJ184W ",
+    "slug": "ASUS ROG Flow X13 GV301RE-LJ184W Laptop ",
+    "price": "1320.49",
+    "description": "AMD Ryzen™ 7 6800HS Mobile Processor, 13.4 Touch Screen, 16GB RAm LPDDR5, NVIDIA® GeForce RTX™ 3050 Ti   ",
+    "image": "/uploads/ASUS ROG Flow X13 GV301RE-LJ184W.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Flow X13 GV301RE-LJ184W.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Flow X16 GV601RW 16 ",
+    "slug": "ASUS ROG Flow X16 GV601RW 16 Touchscreen 165Hz Gaming Laptop ",
+    "price": "2980.42",
+    "description": "AMD Ryzen 9-6900HS, Nvidia GeForce RTX 3070Ti, 32GB RAM, 1TB SSD, Windows 11   ",
+    "image": "/uploads/ASUS ROG Flow X16 GV601RW 16.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Flow X16 GV601RW 16.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "ASUS ROG Flow X13 GV301QE ",
+    "slug": "ASUS ROG Flow X13 GV301QE Full HD 120 Hz 13.4 Inch Touchscreen Gaming Laptop",
+    "price": "1933.47",
+    "description": "AMD Ryzen 9-5980HS, Nvidia GeForce RTX 3080 eGPU + 3050Ti, 16 GB RAM, 1 TB SSD, Wi-Fi 6, Windows 10 Includes Stylus Pen ",
+    "image": "/uploads/ASUS ROG Flow X13 GV301QE.jpg",
+    "thumbnail": "/uploads/uploads/ASUS ROG Flow X13 GV301QE.jpg",
+    "category": "ASUS"
+  },
+  {
+    "name": "Apple 2020 MacBook Air 13",
+    "slug": "Apple 2020 MacBook Air Laptop M1 Chip 13",
+    "price": "999.00",
+    "description": "Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID; Space Grey ",
+    "image": "/uploads/Macbook Air M1 2020.jpg",
+    "thumbnail": "/uploads/uploads/Macbook Air M1 2020.jpg",
+    "category": "MACBOOK"
+  },
+  {
+    "name": "Apple 2022 MacBook Air laptop",
+    "slug": "Apple 2022 MacBook Air laptop with M2 chip",
+    "price": "1249.00",
+    "description": "13.6-inch Liquid Retina display, 8GB RAM, 256GB SSD storage, backlit keyboard, 1080p FaceTime HD camera. Works with iPhone and iPad; Midnight ",
+    "image": "/uploads/Macbook Air M2 2022 13.6.jpg",
+    "thumbnail": "/uploads/uploads/Macbook Air M2 2022 13.6.jpg",
+    "category": "MACBOOK"
+  },
+  {
+    "name": "2021 Apple MacBook Pro",
+    "slug": "2021 Apple MacBook Pro",
+    "price": "1899.00",
+    "description": "14-inch, Apple M1 Pro chip with 8core CPU and 14core GPU, 16GB RAM, 512GB SSD - Space Grey ",
+    "image": "/uploads/Macbook Pro M1 2021 14Inch.jpg",
+    "thumbnail": "/uploads/uploads/Macbook Pro M1 2021 14Inch.jpg",
+    "category": "MACBOOK"
+  },
+  {
+    "name": "2021 Apple MacBook Pro",
+    "slug": "2021 Apple MacBook Pro",
+    "price": "2399.00",
+    "description": "16-inch, M1 Pro chip with 10core CPU and 16core GPU, 16GB RAM, 512GB SSD - Space Grey ",
+    "image": "/uploads/Macbook Pro M1 2021 16.jpg",
+    "thumbnail": "/uploads/uploads/Macbook Pro M1 2021 16.jpg",
+    "category": "MACBOOK"
+  },
+  {
+    "name": "2017 Apple MacBook Air",
+    "slug": "2017 Apple MacBook Air",
+    "price": "390.00",
+    "description": "with Core i5 1.8GHz 13 inch, 8GB RAM, 128GB SSD ",
+    "image": "/uploads/Macbook Air 2017.jpg",
+    "thumbnail": "/uploads/uploads/Macbook Air 2017.jpg",
+    "category": "MACBOOK"
+  }
+]

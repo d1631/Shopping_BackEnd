@@ -1,0 +1,14 @@
+[
+  
+  {
+    "name": "Jack",
+    "phone": "111",
+    "birthday": "2001-09-01",
+    "email": "jack@gmail.com",
+    "gender": "Male",
+    "career": "Security",
+    "account": {
+      "username": "Jack"
+    }
+  }
+]

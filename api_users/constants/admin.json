@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Admin",
+    "phone": "0935169835",
+    "birthday": "2001-10-07",
+    "email": "admin@gmail.com",
+    "gender": "Male",
+    "career": "Administrator",
+    "account": {
+      "username": "admin"
+    }
+  },
+  {
+    "name": "Huy Vu",
+    "phone": "113",
+    "birthday": "1999-01-01",
+    "email": "huyvu12345@gmail.com",
+    "gender": "Male",
+    "career": " Developer",
+    "account": {
+      "username": "huyvu"
+    }
+  }
+]
